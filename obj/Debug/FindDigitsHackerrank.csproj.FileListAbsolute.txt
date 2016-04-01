@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.exe
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\bin\Debug\FindDigitsHackerrank.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.exe
+c:\users\alex\documents\visual studio 2015\Projects\FindDigitsHackerrank\FindDigitsHackerrank\obj\Debug\FindDigitsHackerrank.pdb
